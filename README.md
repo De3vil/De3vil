@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 <!--
 **De3vil/De3vil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Welcome</h2>
-
 <h2> Hi, I'm Abdulrahman Mohammed :D</h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&show_icons=true&theme=dark" width="380">
 
