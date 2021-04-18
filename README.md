@@ -1,35 +1,13 @@
-### Hi there 👋
+<h2> Hi, I'm Khaled :D</h2>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=knassar702&show_icons=true&theme=dark" width="380">
 
-<!--
-**De3vil/De3vil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋
-### 
-<!--
-**De3vil/De3vil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h2> Hi, I'm Abdulrahman Mohammed :D</h2>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&show_icons=true&theme=dark" width="380">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=D3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/De3vil)
-* Penetration tester 👨‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=knassar702&exclude_repo=knassar702.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/knassar702)
+* Bug hunter 🕷
 * Python Developer 🐍
-* ['Desktop Application',WEB Application',Hacking Tools','web scraping','automation']
 
 
-
-[![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
+[![Twitter: knassar702](https://img.shields.io/twitter/follow/knassar702?style=flat-square)](https://twitter.com/knassar702)
+[![Paypal knassar702](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/knassar702)
 </em></p>
 <br>
 
@@ -39,11 +17,11 @@ Here are some ideas to get you started:
 import time
 
 about_me = {
-  'Name':'Abdulrahman Mohammedr',
-  'Nickname':'Mido - Devil',
-  'Age':22,
-  'i love':'cats🐈🐈 and Demons    😈 😈 ',
-  'msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️'
+  'Name':'Khaled Nassar',
+  'Nickname':'knassar702',
+  'Age':18,
+  'i love':'my cat 🐈',
+  'msg for u': 'Better days are near. Hope is much stronger than fear 😊❤️'
 }
 
 def main():
