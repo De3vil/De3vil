@@ -25,7 +25,7 @@
 import time
 
 about_me = {
-  'Name':'Abdulrahman Mohammedr',
+  'Name':'Abdulrahman Mohammed',
   'Nickname':'Mido - Devil',
   'Age':22,
   'i love':'cats🐈🐈 and Demons    😈 😈 ',
