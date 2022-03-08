@@ -13,7 +13,7 @@
 
 * <h2>Penetration tester 👨‍💻</h2>                                                                  
 * <h2>Python Developer 🐍</h2>                                                                    
-* <h2>['Desktop Application',WEB Application',Hacking Tools','web scraping','automation']</h2>        
+* <h3>['Desktop Application',WEB Application',Hacking Tools','web scraping','automation']</h3>        
 
 
 
