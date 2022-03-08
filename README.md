@@ -12,7 +12,7 @@
 <h2> Hi, I'm :- Abdulrahman Mohammed </h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/De3vil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreuse-dark&langs_count=8")](https://github.com/De3vil)
 
 
 * Penetration tester 👨‍💻                                                                    
