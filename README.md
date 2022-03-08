@@ -6,10 +6,10 @@
   <a href="https://t.me/De3vil_3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
 </a>
-* My Links: https://linktr.ee/De3vil.3
   <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
+* My Links: https://linktr.ee/De3vil.3
 <p align="center"> 
  Visitor Count<br>
  <img src="https://profile-counter.glitch.me/De3vil//count.svg" />
