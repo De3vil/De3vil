@@ -2,7 +2,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Welcome</h2>
-
+<h2> hi </h2>
 <p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/De3vil//count.svg" />
@@ -14,7 +14,7 @@
 * <h2>Penetration tester 👨‍💻</h2>                                                                  
 * <h2>Python Developer 🐍</h2>                                                                    
 * <h2>['Desktop Application',WEB Application',Hacking Tools','web scraping','automation']</h2>        
-<h1 style="color:rgb(255,0,0)">Heading</h1>
+
 
 
 [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
