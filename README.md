@@ -3,6 +3,12 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Welcome</h2>
 
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/xElkomy/count.svg" />
+</p>
+
+
 <h2> Hi, I'm :- Abdulrahman Mohammed </h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&show_icons=true&theme=dark" width="380">
 
