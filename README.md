@@ -45,8 +45,4 @@ if __name__ == '__main__':
 ```
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/w3css/4/w3.css">
-<link rel="stylesheet" href="/lib/w3-colors-signal.css">
-<body class="w3-container">
-<div class="w3-badge w3-xlarge w3-signal-red">1</div>
+
