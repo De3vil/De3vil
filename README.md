@@ -26,14 +26,12 @@
 
  <h1 align="center">Abut Me </h2>
 
- <p>i love':'cats🐈🐈 and Demons😈 😈 <br> msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️ <br> I am a developer , hacker 👨‍💻 ooh yeah 😄 ,</p>
+<p>i love':'cats🐈🐈 and Demons😈 😈<br>msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️ <br>I am a developer , hacker 👨‍💻 ooh yeah 😄 
+ <br>and a lot of things i love to see how things work in depth, make things,<br>break things and make things that break things.😄</br></p>
 
- i love':'cats🐈🐈 and Demons    😈 😈 
- msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️
- I am a developer , hacker 👨‍💻 ooh yeah 😄 , 
- and a lot of things i love to see how things work in depth, make things, 
- break things and make things that break things.😄
-</p>
+
+  
+
 
 
 [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
