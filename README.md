@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreuse-dark&langs_count=8")](https://github.com/De3vil)
 
 * <h2>Penetration tester 👨‍💻</h2>                                                                  
-* <h2>Python Developer 🐍</h2>    <h2>['Desktop Application']</h2>                                                              
+* <h2>Python Developer 🐍</h2> * <h2>['Desktop Application']</h2>                                                              
 * <h>[WEB Application',Hacking Tools','web scraping','automation']</h>        
 
 
