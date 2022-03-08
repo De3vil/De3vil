@@ -14,7 +14,7 @@
  
 * <h2 align="center">Penetration tester 👨‍💻<h2>                                                                  
 * <h2 align="center">Python Developer 🐍</h2>
-                                      Desktop ApplicationWEB Application,Hacking Tools','web scraping','automation    
+* <h align ="cente">rDesktop ApplicationWEB Application,Hacking Tools','web scraping','automation</h>   
 
 
 
