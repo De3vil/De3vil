@@ -14,7 +14,7 @@
  
 * <h2 align="center">Penetration tester 👨‍💻<h2>                                                                  
 * <h2 align="center">Python Developer 🐍</h2>
-* <h5 align="center">Desktop ApplicationWEB Application,Hacking Tools','web scraping','automation</h5>  
+* <h5 align="center">Desktop Application WEB Application Hacking Tools web scraping automation </h5>  
 
 
 
@@ -44,3 +44,9 @@ if __name__ == '__main__':
   main()
 ```
 ---
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/4/w3.css">
+<link rel="stylesheet" href="/lib/w3-colors-signal.css">
+<body class="w3-container">
+<div class="w3-badge w3-xlarge w3-signal-red">1</div>
