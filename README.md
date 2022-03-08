@@ -4,7 +4,7 @@
   <h2 align="center">Welcome</h2>
   <h2 align="center">Abdulrahman Mohammed</h2>
   <a href="https://t.me/De3vil_3">
-     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegrame&logoColor=00AEFF&labelColor=black&color=black">
+     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="https://t.me/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
