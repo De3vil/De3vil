@@ -1,4 +1,4 @@
-<h1> Hi there! <img src="https://media.giphy.com/media/d8oI97avlJAygnp7RC/giphy.gif" width="50"></h1>
+<h1> Hi there! <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"></h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
   <h2 align="center">Welcome</h2>
