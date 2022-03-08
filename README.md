@@ -5,8 +5,9 @@
   <h2 align="center">Abdulrahman Mohammed</h2>
   <a href="https://t.me/De3vil_3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="https://t.me/De3vil.3">
+* My Links: https://linktr.ee/De3vil.3
+</a>
+  <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 <p align="center"> 
