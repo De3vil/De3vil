@@ -1,4 +1,4 @@
-<h1> Hi there! <img src="https://giphy.com/gifs/cat-black-and-white-kitten-ydqokKjBkJV0A" width="50"></h1>
+<h1> Hi there! <img src="https://giphy.com/gifs/cat-black-and-white-kitten-ydqokKjBkJV0A" width="250"></h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
   <h2 align="center">Welcome</h2>
