@@ -2,8 +2,8 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center"><h2>Welcome</h2>
- <p align="center"> 
-  Visitor Count<br>
+<p align="center"> 
+Visitor Count<br>
 <img src="https://profile-counter.glitch.me/De3vil//count.svg" />
 </p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
