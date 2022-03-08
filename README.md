@@ -11,14 +11,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreuse-dark&langs_count=8")](https://github.com/De3vil)
 
-* <h2>Penetration tester 👨‍💻</h2>                                                                  
-* <h2>Python Developer 🐍</h2>
-* <h2>['Desktop Application']</h2>                                                              
-* <h>[WEB Application
-* ',Hacking Tools',
-* 'web scraping',
-* 'automation']</h>        
-<h1 style="color:rgb(192,192,192)">Heading</h1>
+ 
+* <h2 align="center">Penetration tester 👨‍💻</h2>                                                                  
+* <h2 align="center">Python Developer 🐍</h2>
+
+```* <h2>Desktop ApplicationWEB Application,Hacking Tools','web scraping','automation']</h>```    
+
 
 
 [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
