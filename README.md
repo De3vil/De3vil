@@ -14,11 +14,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreuse-dark&langs_count=8")](https://github.com/De3vil)
 
-```
-* Penetration tester 👨‍💻                                                                    
+  
+* <h2>Penetration tester 👨‍💻  </h2>                                                                  
 * Python Developer 🐍                                                                          
 * ['Desktop Application',WEB Application',Hacking Tools','web scraping','automation']            
-```
+
 
 
 [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
