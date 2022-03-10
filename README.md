@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreuse-dark&langs_count=8")](https://github.com/De3vil)
 
  
-* <h2 align="center">Penetration tester 👨‍💻<h2>                                                                  
+* <h2 align="center">penetration tester 👨‍💻<h2>                                                                  
 * <h2 align="center">Python Developer 🐍</h2>
 * <h5 align="center">Desktop Application WEB Application Hacking Tools web scraping automation </h5>  
 
