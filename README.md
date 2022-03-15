@@ -61,4 +61,8 @@ if __name__ == '__main__':
 ```
 ---
 
+<table>
+  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=De3vil&theme=gotham&area=true" /></tr>
+</table><br/><br/>
 
+<hr />
