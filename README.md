@@ -23,16 +23,12 @@
 
 
 
-<table align="center" width="100%">
   <tr>
     <td align="center">
 
     </td>
     <td align="center">
       <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
-    </td>
-  </tr>
-  <tr>
           <td align="center">
             [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&layout=compact&theme=chartreusedark&langs_count=8")](https://github.com/De3vil)
           </td>
@@ -40,7 +36,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=De3vil&theme=tokyonight">
     </td>
   </tr>
-</table>
 
 
 ***
