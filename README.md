@@ -16,7 +16,7 @@
 </p>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse-dark&langs_count=15")](https://github.com/De3vil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse-dark&layout=compact&langs_count=15")](https://github.com/De3vil)
 <p align="center"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=De3vil&theme=tokyonight">
 </p>
