@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse-dark&layout=compact&langs_count=15")](https://github.com/De3vil)
 <p align="center"> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=De3vil&theme=tokyonight">
+ !--<img src="https://github-readme-streak-stats.herokuapp.com/?user=De3vil&theme=tokyonight">-->
 </p>
 
  
