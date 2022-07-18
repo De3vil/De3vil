@@ -1,4 +1,4 @@
-<h1> Hi there! <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="50"></h1>
+<h1> Hi there! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"></h1>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
   <h2 align="center">Welcome</h2>
