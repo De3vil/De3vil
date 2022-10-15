@@ -2,7 +2,7 @@
 </h1>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"width="375" Height=350">
 <a href="https://github.com/De3vil">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&layout=compact&theme=chartreuse-dark&langs_count=20" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&layout=compact&theme=chartreuse-dark&langs_count=20" />
 </a>
 
 - I'm :- Abdulrahman Mohammed ~ De3vil:ballot_box_with_check:
