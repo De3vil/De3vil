@@ -9,7 +9,7 @@
 - :purple_heart: I’m a:-
 -  **🐍    python developer 🐍**
 - **☠️👹  malware developer ☠️👹** 
-- **👨‍💻    penetration tester 👨‍💻 ** 
+- **👨‍💻 penetration tester** 
 -  **📙 I am currently learning C && assembly 📙**
 - [Desktop Application WEB Application Hacking Tools web scraping automation]
 ##
