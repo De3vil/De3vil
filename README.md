@@ -23,10 +23,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/De3vil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micro0x00" height="30" width="40" /></a>  
 <a href="https://fb.com/De3vil.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="micro0x00" height="30" width="40" /></a>  
-<a href="https://www.buymeacoffee.com/De3vil"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Micro0x00" /></a></p><br><br>  
+
 </p>  
 
-
+If this tool has been useful for you, feel free to thank me by buying me a coffee :)
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)
 
 [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
 </em></p>
