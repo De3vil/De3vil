@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
 
   <a href="https://github.com/De3vil">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&layout=compact&theme=chartreuse-dark&langs_count=500" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&layout=compact&theme=chartreuse-dark&langs_count=500"width="50" />
   </a>
      
      
