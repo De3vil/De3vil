@@ -16,9 +16,6 @@
 <p>i love':
   'cats🐈🐈 and Demons😈 😈<br>msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️ <br>I am a Python developer(back-end developer) , hacker 👨‍💻 ooh yeah 😄 
  <br>and a lot of things i love to see how things work in depth, make things,<br>break things and make things that break things.😄</br></p>
-
-
-
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://linkedin.com/in/De3vil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="De3vil" height="30" width="40" /></a>  
@@ -48,10 +45,7 @@ def main():
 if __name__ == '__main__':
   main()
 ```
----
 <table>
   <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=De3vil&theme=gotham&area=true" /></tr>
 </table><br/><br/>
-
-
 <hr />
