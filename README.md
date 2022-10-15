@@ -4,11 +4,9 @@
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 - I'm :- Abdulrahman Mohammed ~ De3vil
-- **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
-- [Desktop Application WEB Application Hacking Tools web scraping automation]
+- :purple_heart: I’m **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**[Desktop Application WEB Application Hacking Tools web scraping automation]
 
-
-
+  
 
  
  <p align="center"> &nbsp; 👨‍🎓 Hacker &nbsp; | &nbsp; Programmer &nbsp; | &nbsp; FreeLancer ✈ &nbsp; </p>
