@@ -14,11 +14,11 @@
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse
-                 dark&layout=compact&langs_count=15")](https://github.com/De3vil)
+dark&layout=compact&langs_count=15")](https://github.com/De3vil)
 
 
  
-/** <h2 align="center"> penetration tester 👨‍💻<h2>    */                                                              
+* <h2 align="center"> penetration tester 👨‍💻<h2>                                                          
 * <h2 align="center">Python Developer 🐍</h2>
 * <h4 align="center">Desktop Application WEB Application Hacking Tools web scraping automation </h4>  
 
