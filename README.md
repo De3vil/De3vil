@@ -1,7 +1,5 @@
 <h1> Hi there! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"></h1>
-<p align="center">
- <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="left" alt="GitHub Readme Stats" />
-  <h4 align="left">Welcome</h4>
+
   <a href="https://t.me/De3vil_3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
 </a>
@@ -9,6 +7,8 @@
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 - :purple_heart: I’m currently learning && **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**[Desktop Application WEB Application Hacking Tools web scraping automation]
+
+
 
 
  <h1 align="center">Abut Me </h2>
