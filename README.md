@@ -9,16 +9,13 @@
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 
-
-
 * My Links: https://linktr.ee/De3vil.3
-
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse-dark&layout=compact&langs_count=15")](https://github.com/De3vil)
-<p align="center"> 
- 
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse
+                 dark&layout=compact&langs_count=15")](https://github.com/De3vil)
+
 
  
 * <h2 align="center"> penetration tester 👨‍💻<h2>                                                                  
