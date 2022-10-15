@@ -12,16 +12,9 @@
 
 - :purple_heart: I’m **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
 - [Desktop Application WEB Application Hacking Tools web scraping automation]
-- :blue_heart: I'm @ **Full Stack Developer & Bug Hunter**
--  📫 How to reach me **Micro0x00@protonmail.com**  
   
 
 
-- ⚡ Fun fact : I'm a Meme Lord 
-
-
-
-- :purple_heart: I’m **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
 
   
 
