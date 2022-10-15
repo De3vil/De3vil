@@ -10,7 +10,7 @@
 -  **🐍    python developer 🐍**
 - **☠️👹  malware developer ☠️👹** 
 - **👨‍💻    penetration tester 👨‍💻 ** 
--  **📙 I am currently learning C && assembly 📙 **
+-  **📙 I am currently learning C && assembly 📙**
 - [Desktop Application WEB Application Hacking Tools web scraping automation]
 ##
 <p>i love':
