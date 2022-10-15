@@ -6,9 +6,14 @@
 </a>
 
 - I'm :- Abdulrahman Mohammed ~ De3vil:ballot_box_with_check:
-- :purple_heart: I’m **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
+- :purple_heart: I’m a **🐍python developer 🐍**
 - [Desktop Application WEB Application Hacking Tools web scraping automation]
-<p>i love':'cats🐈🐈 and Demons😈 😈<br>msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️ <br>I am a Python developer(back-end developer) , hacker 👨‍💻 ooh yeah 😄 
+- **☠️👹malware developer** 
+- **👨‍💻penetration tester ** 
+-  **I am currently learning C && assembly**
+
+<p>i love':
+  'cats🐈🐈 and Demons😈 😈<br>msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️ <br>I am a Python developer(back-end developer) , hacker 👨‍💻 ooh yeah 😄 
  <br>and a lot of things i love to see how things work in depth, make things,<br>break things and make things that break things.😄</br></p>
 
 
