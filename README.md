@@ -8,15 +8,8 @@
   <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
+- :purple_heart: I’m currently learning && **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**[Desktop Application WEB Application Hacking Tools web scraping automation]
 
-* My Links: https://linktr.ee/De3vil.3
-
-
-
- 
-* <h2 align="center"> penetration tester 👨‍💻<h2>                                                          
-* <h2 align="center">Python Developer 🐍</h2>
-* <h4 align="center">Desktop Application WEB Application Hacking Tools web scraping automation </h4>  
 
  <h1 align="center">Abut Me </h2>
  <p align="center"> &nbsp; 👨‍🎓 Hacker &nbsp; | &nbsp; Programmer &nbsp; | &nbsp; FreeLancer ✈ &nbsp; </p>
