@@ -4,10 +4,9 @@
 
 
 
-# Who am I
 
-   <img src="https://komarev.com/ghpvc/?username=De3vil">
-   <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
+   <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse
+dark&layout=compact&langs_count=15")](https://github.com/De3vil)
 
 - I'm :- Abdulrahman Mohammed ~ De3vil:ballot_box_with_check:
 
