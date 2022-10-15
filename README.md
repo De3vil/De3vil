@@ -27,12 +27,8 @@
 </p>  
 
 If I has been useful for you, feel free to thank me by buying me a coffee :)
-
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)  <a href="https://www.paypal.com/paypalme/De3vil01" target="blank"><img  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="De3vil.3" height="100" width="100" /></a>  
-
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)  <a href="https://www.paypal.com/paypalme/De3vil01" target="blank"><img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="De3vil.3" height="100" width="100" /></a>  
 <br>
-
-
 ```python
 #!/usr/bin/env python3
 import time
@@ -44,7 +40,6 @@ about_me = {
   'i love':'cats🐈🐈 and Demons    😈 😈 ',
   'msg for u': 'Life's goal is to finish, so do what you want before it ends. 😊❤️'
 }
-
 
 def main():
   for t,i in about_me.items():
