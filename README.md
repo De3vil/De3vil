@@ -3,7 +3,7 @@
 
 
 
-   <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
   
 
 - I'm :- Abdulrahman Mohammed ~ De3vil:ballot_box_with_check:
