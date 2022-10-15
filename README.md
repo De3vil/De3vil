@@ -8,7 +8,11 @@
   <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  
+
+<table>
+  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=De3vil&theme=gotham&area=true" /></tr>
+</table><br/><br/>
+
 * My Links: https://linktr.ee/De3vil.3
 <p align="center"> 
  Visitor Count<br>
@@ -64,8 +68,6 @@ if __name__ == '__main__':
 ```
 ---
 
-<table>
-  <tr align='center'><img alt="Github Graph" src="https://activity-graph.herokuapp.com/graph?username=De3vil&theme=gotham&area=true" /></tr>
-</table><br/><br/>
+
 
 <hr />
