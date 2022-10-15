@@ -28,7 +28,7 @@
 
 If I has been useful for you, feel free to thank me by buying me a coffee :)
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)
-[![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
+[![B De3vil](https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg)](https://www.paypal.com/paypalme/De3vil01)
 </em></p>
 <br>
 
