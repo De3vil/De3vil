@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/De3vil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="De3vil" height="30" width="40" /></a>  
 <a href="https://fb.com/De3vil.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="De3vil.3" height="30" width="40" /></a>  
 </p>  
-If I has been useful for you, feel free to thank me by buying me a coffee :)
+If I has been useful for you, feel free to thank me by buying me a coffee 😁
 
 [![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)  <a href="https://www.paypal.com/paypalme/De3vil01" target="blank"><img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="De3vil.3" height="100" width="100" /></a>  
 <br>
