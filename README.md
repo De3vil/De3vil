@@ -6,10 +6,9 @@
   <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <h3 align="center">Abut Me </h3>
+<h3 align="center">Abut Me </h3>
 - I'm :- Abdulrahman Mohammed ~ De3vil
-- I'm a :- 
-- 💜 **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
+- **malware develpment** &**penetration tester 👨‍💻** & **Python Developer 🐍**
 - [Desktop Application WEB Application Hacking Tools web scraping automation]
 
 
