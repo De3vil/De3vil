@@ -14,10 +14,7 @@
 * My Links: https://linktr.ee/De3vil.3
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=De3vil&count_private=true&show_icons=true&theme=chartreuse-dark"">
-<p align="center"> 
- Visitor Count<br>
- <img src="https://profile-counter.glitch.me/De3vil//count.svg" />
-</p>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&exclude_repo=De3vil.github.io,free-for-dev&theme=chartreuse-dark&layout=compact&langs_count=15")](https://github.com/De3vil)
 <p align="center"> 
  
