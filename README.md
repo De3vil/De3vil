@@ -4,7 +4,7 @@
 <a href="https://github.com/De3vil"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De3vil&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
 
 ##
-- m :- Abdulrahman Mohammed ~ De3vil:👹:
+- i'm :- Abdulrahman Mohammed ~ De3vil:👹:
 - :purple_heart: I’m a:-
 -  **🐍     python developer 🐍**
 - **☠️👹    malware developer ☠️👹** 
