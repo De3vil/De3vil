@@ -47,12 +47,3 @@ If I has been useful for you, feel free to thank me by buying me a coffee 😁
 <br>
 
 
-def main():
-  for t,i in about_me.items():
-    time.sleep(0.2)
-    print(f'{t}: {i}')
-  print('\nBye ;D')
-if __name__ == '__main__':
-  main()
-```
-
